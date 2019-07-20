@@ -2,3 +2,9 @@
 Theme name: WP Learning Bitch
 Version: 1.0
  */
+
+/*General*/
+body {
+    background-color: lightgrey;
+    font-family: verdana, sans-serif;
+}
